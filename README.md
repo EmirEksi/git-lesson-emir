@@ -1,2 +1,3 @@
 # git-lesson-emir
-I am learning git hub.
+
+Git-hub daki ilk calismam.
